@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|d:\\work\\unity development\\testtask games of mind soft (photonnetwork)\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\assets\\scripts\\connecttoserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\connecttoserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\assets\\scripts\\picturecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1A9FA1-6979-A50C-58B8-FAB22952B7A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\picturecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PictureCreator.cs",
+              "DocumentMoniker": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\PictureCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PictureCreator.cs",
+              "ToolTip": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\PictureCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PictureCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:03:38.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:49:59.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerSpawner.cs",
+              "DocumentMoniker": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\PlayerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpawner.cs",
+              "ToolTip": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\PlayerSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:48:12.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:45:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectToServer.cs",
+              "DocumentMoniker": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\ConnectToServer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConnectToServer.cs",
+              "ToolTip": "D:\\Work\\Unity development\\TestTask Games Of Mind Soft (PhotonNetwork)\\Assets\\Scripts\\ConnectToServer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConnectToServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:39:51.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
